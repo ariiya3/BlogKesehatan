@@ -1,13 +1,25 @@
 <?php
-	// host ==> lokasi server
-	// user ==> username
-	// pass ==> password
-	// db ==> nama database
+  date_default_timezone_set('Asia/Jakarta');
+  session_start();
 
-	$host = 'localhost';
-	$user = 'root';
-	$pass = '';
-	$db = 'latihan__';
+  $server = 'localhost';
+  $user = 'root';
+  $pass = '';
+  $db = 'db_artikel';
 
-	$koneksi = mysqli_connect($host,$user,$pass,$db);
+  $con = mysqli_connect($server,$user,$pass,$db);
+
+  if (mysqli_connect_errno()) {
+    echo mysqli_connect_error();
+  }
+
+  function base_url($url = null){
+    $base_url = 'http://localhost/gabut/prakt';
+    if ($url != null) {
+      return $base_url.'/'.$url;
+    }
+    else {
+      return $base_url;
+    }
+  }
  ?>
