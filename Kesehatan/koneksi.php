@@ -5,7 +5,7 @@
   $server = 'localhost';
   $user = 'root';
   $pass = '';
-  $db = 'tb_artikel';
+  $db = 'db_artikel';
 
   $con = mysqli_connect($server,$user,$pass,$db);
 
