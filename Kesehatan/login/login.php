@@ -37,18 +37,7 @@
         </div>
         <div class="col-md-3"></div>
       </div>
-
       <br>
-
-      <div class="row">
-        <div class="col-md-3"></div>
-          <div class="col-md-6">
-          <a class="btn btn-block btn-default" href="register.php">Daftar</a>
-          <!-- <button type="submit" class="btn btn-primary">Daftar</button> -->
-          <!-- <input type="submit" class="btn btn-block btn-default" value="Daftar"/> -->
-        </div>
-        <div class="col-md-3"></div>
-      </div>
     </form>
     <script src="../js/jquery-3.3.1.min.js" charset="utf-8"></script>
   	<script src="../js/bootstrap.js" charset="utf-8"></script>
