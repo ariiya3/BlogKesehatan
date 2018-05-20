@@ -1,0 +1,66 @@
+<<<<<<< HEAD
+.sidenav{
+	height: 100%;
+	width: 20%;
+	background-color: #333;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x:hidden;
+	padding-top: 20px;
+}
+
+.main-view{
+	margin-left: 20%;
+	background-color:#fff;
+	padding: 0px 10px;
+}
+
+.Top-Head{
+	min-height: 20%;
+	width: 80%;
+	background-color: #e0f;
+	position: absolute;
+	left: 20%;
+	padding: 20px;
+}
+
+.tengah{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+=======
+.sidenav{
+	height: 100%;
+	width: 20%;
+	background-color: #333;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x:hidden;
+	padding-top: 20px;
+}
+
+.main-view{
+	margin-left: 20%;
+	background-color:#fff;
+	padding: 0px 10px;
+}
+
+.Top-Head{
+	min-height: 20%;
+	width: 80%;
+	background-color: #e0f;
+	position: absolute;
+	left: 20%;
+	padding: 20px;
+}
+
+.tengah{
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+>>>>>>> 7f90a2147674b81bc5f919b9f1eec12419b5f2bd
+}
