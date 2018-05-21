@@ -22,7 +22,7 @@
       <div class="row">
       <div class="col-md-3"></div>
       <div class="col-md-6">
-        <input class="form-control" type="text" name="password" id="password" placeholder="Password" required>
+        <input class="form-control" type="password" name="password" id="password" placeholder="Password" required>
       </div>
       <div class="col-md-3"></div>
       </div>

@@ -16,7 +16,6 @@
     $cek_bcyrpt = password_verify($hash_md5, $pass_db);
 
     if ($cek_bcyrpt) {
-      session_start();
       $_SESSION['id_user'] = $akun['id'];
       $_SESSION['username'] = $akun['username'];
 
