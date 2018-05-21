@@ -1,0 +1,50 @@
+<<<<<<< HEAD
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.Absolute-Center.is-Responsive {
+  width: 50%; 
+  height: 50%;
+  min-width: 200px;
+  padding: 40px;
+}
+
+.log-in{
+	background-color: #ccc;
+	border: 2px solid #999;
+	border-radius: 2%;
+	padding: 15px;
+}
+
+.login hr{
+	border-top: 2px solid #999;
+	margin-top: 0px;
+=======
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+.Absolute-Center.is-Responsive {
+  width: 50%; 
+  height: 50%;
+  min-width: 200px;
+  padding: 40px;
+}
+
+.log-in{
+	background-color: #ccc;
+	border: 2px solid #999;
+	border-radius: 2%;
+	padding: 15px;
+}
+
+.login hr{
+	border-top: 2px solid #999;
+	margin-top: 0px;
+>>>>>>> 7f90a2147674b81bc5f919b9f1eec12419b5f2bd
+}
